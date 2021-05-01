@@ -1,5 +1,7 @@
 # Horizon Dark Theme for Standard Notes
 
+Theme for [Standard Notes](https://standardnotes.org/). Based on colors from the [Horizon theme for VSCode](https://github.com/jolaleye/horizon-theme-vscode).
+
 ## Preview
 
 ![Horizon Dark Theme for Standard Notes](preview.png)
