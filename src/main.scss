@@ -29,6 +29,9 @@
   --sn-stylekit-danger-color: #fab28e;
   --sn-stylekit-danger-contrast-color: #fdf0ed;
 
+  //Override 3.9.15 Changes
+  --sn-stylekit-grey-5: var(--highlight-color);
+
   --sn-stylekit-editor-background-color: var(--sn-stylekit-background-color);
   --sn-stylekit-editor-foreground-color: var(--sn-stylekit-foreground-color);
 
